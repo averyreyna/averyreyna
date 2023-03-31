@@ -5,7 +5,7 @@
 <br>
 🧑🏽‍💻 I am an incoming Software Engineer at Capital One.
 <br>
-💻 I’m interesting in exploring sociotechnical systems and the ethics surrounding generative AI.
+💻 I’m interested in exploring sociotechnical systems and the ethics surrounding generative AI.
 <br>
 💞️ I'm passionate about helping those with non-traditional backgrounds get the roles they want in the tech industry.
 <br> 
