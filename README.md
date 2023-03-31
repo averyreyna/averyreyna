@@ -1,4 +1,4 @@
-## Hello! I'm Avery Reyna
+## Hello, I'm Avery Reyna!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avery-reyna/)
 <br>
 👋🏽 I am a graduate from the University of Central Florida, where I studied Politcal Science, Sociology, and Cultural Anthropology.
