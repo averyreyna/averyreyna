@@ -7,7 +7,7 @@
 <br>
 💻 I’m interesting in exploring sociotechnical systems and the ethics surrounding generative AI.
 <br>
-💞️ I am passionate about helping those with non-traditional backgrounds get the roles they want in the tech industry.
+💞️ I'm passionate about helping those with non-traditional backgrounds get the roles they want in the tech industry.
 <br> 
 🎧 Fun Fact: I am an avid vinyl collector and have over 50 records.
 
