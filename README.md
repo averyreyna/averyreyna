@@ -2,9 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avery-reyna/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/avery-reyna/)
 <br>
-👋🏽 I am a graduate from the University of Central Florida, where I studied Politcal Science, Sociology, and Cultural Anthropology.
-<br>
-🧑🏽‍💻 I am an incoming Software Engineer at Capital One.
+👋🏽 I am a graduate from the University of Central Florida, where I studied Politcal Science, Sociology, and Cultural Anthropology. I am an incoming Software Engineer at Capital One mainly interested in full stack and machine learning work.
 <br>
 💻 I’m interested in exploring sociotechnical systems and the ethics surrounding generative AI.
 <br>
