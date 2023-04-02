@@ -5,7 +5,7 @@
 
 I am a recent graduate from the University of Central Florida, where I studied Politcal Science, Sociology, and Cultural Anthropology. After graduation, I joined Capital One as a Software Engineer learning full stack web development and joining teams across the company. Before I gradauted, I was deeply involved with research on and off campus, focusing on Human-Computer Interaction, Computational Social Science, and AI ethics. Coming from a self-taught background, I'm passionate about helping those with non-traditional backgrounds get the roles they want in the tech industry. Outside of work, I am an avid vinyl collector and have over 50 records ranging from all genres imagineable!
 
-### Languages & Tools
+### Languages & Tools:
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
