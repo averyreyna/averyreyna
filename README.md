@@ -2,13 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avery-reyna/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/avery-reyna/)
 <br>
-👋🏽 I am a graduate from the University of Central Florida, where I studied Politcal Science, Sociology, and Cultural Anthropology. I am an incoming Software Engineer at Capital One mainly interested in full stack and machine learning work.
-<br>
-💻 I’m interested in exploring sociotechnical systems and the ethics surrounding generative AI.
-<br>
-💞️ I'm passionate about helping those with non-traditional backgrounds get the roles they want in the tech industry.
-<br> 
-🎧 Fun Fact: I am an avid vinyl collector and have over 50 records.
+👋🏽 I am a recent graduate from the University of Central Florida, where I studied Politcal Science, Sociology, and Cultural Anthropology. After graduation, I joined Capital One as a Software Engineer learning full stack web development and joining teams across the company. Before I gradauted, I was deeply involved with research on and off campus, focusing on Human-Computer Interaction, Computational Social Science, and AI ethics. Coming from a self-taught background, I'm passionate about helping those with non-traditional backgrounds get the roles they want in the tech industry. Outside of work, I am an avid vinyl collector and have over 50 records ranging from all genres imagineable!
 
 ### Languages & Tools
   
